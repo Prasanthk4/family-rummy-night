@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/family-rummy-night/static/css/main.c03a91db.css",
+    "main.css": "/family-rummy-night/static/css/main.98369d26.css",
     "main.js": "/family-rummy-night/static/js/main.56a34973.js",
     "static/js/453.ca03e80f.chunk.js": "/family-rummy-night/static/js/453.ca03e80f.chunk.js",
     "static/media/rummy-cards.svg": "/family-rummy-night/static/media/rummy-cards.3d335011a0f21b765f1e262e855f525f.svg",
     "index.html": "/family-rummy-night/index.html",
-    "main.c03a91db.css.map": "/family-rummy-night/static/css/main.c03a91db.css.map",
+    "main.98369d26.css.map": "/family-rummy-night/static/css/main.98369d26.css.map",
     "main.56a34973.js.map": "/family-rummy-night/static/js/main.56a34973.js.map",
     "453.ca03e80f.chunk.js.map": "/family-rummy-night/static/js/453.ca03e80f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c03a91db.css",
+    "static/css/main.98369d26.css",
     "static/js/main.56a34973.js"
   ]
 }
