@@ -63,37 +63,47 @@ function App() {
           <div className="golden-line"></div>
 
           <div className="rules-section">
-            <h3>Quick Rules Reminder 🎴</h3>
+            <h3>Game Rules & Guidelines</h3>
             <div className="rules-grid">
               <div className="rule-item">
-                <span className="rule-icon">🎯</span>
-                <h4>Objective</h4>
-                <p>Arrange all 13 cards into valid sequences and sets</p>
-              </div>
-              <div className="rule-item">
-                <span className="rule-icon">🔄</span>
-                <h4>Valid Sets</h4>
-                <p>3 or 4 cards of same rank but different suits</p>
-              </div>
-              <div className="rule-item">
-                <span className="rule-icon">➡️</span>
-                <h4>Pure Sequence</h4>
-                <p>3+ consecutive cards of same suit</p>
+                <span className="rule-icon">🎮</span>
+                <h4>Basic Rules</h4>
+                <p>Arrange 13 cards into sequences and sets. Pure sequence is mandatory to win.</p>
               </div>
               <div className="rule-item">
                 <span className="rule-icon">🃏</span>
-                <h4>Jokers</h4>
-                <p>Can substitute any card in sets or sequences</p>
+                <h4>Valid Sets</h4>
+                <p>3-4 cards of same rank, different suits. Jokers can be used as substitutes.</p>
               </div>
               <div className="rule-item">
-                <span className="rule-icon">🏆</span>
-                <h4>To Win</h4>
-                <p>Need 1 pure sequence + valid sets/sequences</p>
+                <span className="rule-icon">⏰</span>
+                <h4>Timing</h4>
+                <p>All players must arrive by 9:00 PM. Game continues until players are exhausted.</p>
               </div>
               <div className="rule-item">
-                <span className="rule-icon">💫</span>
-                <h4>Points</h4>
-                <p>Face cards = 10, Aces = 1, Others = face value</p>
+                <span className="rule-icon">👥</span>
+                <h4>Viewers Welcome</h4>
+                <p>Viewers are welcome! They can contribute by preparing snacks, tea/coffee to keep players energized.</p>
+              </div>
+              <div className="rule-item">
+                <span className="rule-icon">🦟</span>
+                <h4>Comfort Measures</h4>
+                <p>Odomas will be provided free of cost to all players and viewers for mosquito protection.</p>
+              </div>
+              <div className="rule-item">
+                <span className="rule-icon">🎵</span>
+                <h4>Entertainment</h4>
+                <p>Infotainment system available with controlled volume to maintain gaming atmosphere.</p>
+              </div>
+              <div className="rule-item">
+                <span className="rule-icon">🤫</span>
+                <h4>Viewer Etiquette</h4>
+                <p>Viewers should maintain silence and not interrupt or influence the game.</p>
+              </div>
+              <div className="rule-item">
+                <span className="rule-icon">🚗</span>
+                <h4>Transportation</h4>
+                <p>Players and viewers need to arrange their own transportation.</p>
               </div>
             </div>
           </div>
