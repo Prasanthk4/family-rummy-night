@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background cards -->
+    <rect x="50" y="50" width="120" height="180" rx="10" fill="#ffffff" stroke="#e74c3c" stroke-width="3" transform="rotate(-15 50 50)"/>
+    <rect x="140" y="40" width="120" height="180" rx="10" fill="#ffffff" stroke="#3498db" stroke-width="3"/>
+    <rect x="230" y="50" width="120" height="180" rx="10" fill="#ffffff" stroke="#2ecc71" stroke-width="3" transform="rotate(15 230 50)"/>
+    
+    <!-- Card symbols -->
+    <text x="90" y="140" font-family="Arial" font-size="40" fill="#e74c3c">♥</text>
+    <text x="180" y="140" font-family="Arial" font-size="40" fill="#3498db">♠</text>
+    <text x="270" y="140" font-family="Arial" font-size="40" fill="#2ecc71">♣</text>
+    
+    <!-- Card numbers -->
+    <text x="85" y="100" font-family="Arial" font-size="24" fill="#e74c3c">A</text>
+    <text x="175" y="100" font-family="Arial" font-size="24" fill="#3498db">K</text>
+    <text x="265" y="100" font-family="Arial" font-size="24" fill="#2ecc71">Q</text>
+</svg>
